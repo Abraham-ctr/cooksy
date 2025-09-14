@@ -74,7 +74,6 @@ class _HomeScreenState extends State<HomeScreen> {
             Expanded(
               child: Center(
                 child: Column(
-                  // mainAxisSize: MainAxisSize.min, // only takes as much space as needed
                   children: [
                     // Ingredient Input
                     TextField(

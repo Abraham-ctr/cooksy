@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# added myself
+.packages
+pubspec.lock
+.idea/
+.vscode/
+lib/config.dart
